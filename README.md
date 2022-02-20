@@ -1,8 +1,6 @@
 - 👋 Hi there, I’m Tomin Bejoy
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology, Web design and Graphic Desgn
+- 🌱 I’m currently learning Microsoft Azure, Python and AutoCAD
 
 <!---
 tominbejoy/tominbejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
