@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Tomin Bejoy
-- 👀 I’m interested in Technology, Web design and Graphic Desgn
-- 🌱 I’m currently learning Microsoft Azure, Python and AutoCAD
+- 👀 I’m interested in Electric Vehicles, Power Electronics and BMS design.
+- 🌱 I’m currently learning EV design and battery management.
 
 <!---
 tominbejoy/tominbejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
