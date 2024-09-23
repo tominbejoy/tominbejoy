@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Tomin Bejoy
-- 👀 I’m interested in Electric Vehicles, Power Electronics and BMS design.
-- 🌱 I’m currently learning EV design and battery management.
+- Pursuing M.Tech in VLSI Design.
+- Modelsim, Vivado, Cadence
 
 <!---
 tominbejoy/tominbejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
